@@ -8,5 +8,8 @@ MainPanel(){
     
     JButton redButton = new JButton("Red");
     add(redButton);
+    
+    JButton johnIdeButton = new JButton("John Ide");
+    add(johnIdeButton);
 }
 }
