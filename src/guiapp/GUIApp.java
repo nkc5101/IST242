@@ -18,5 +18,4 @@ public class GUIApp {
         MainFrame mFrame = new MainFrame();
        
     }
-    
 }
