@@ -13,5 +13,7 @@ public class MainPanel extends JPanel {
 
         JButton johnIdeButton = new JButton("John Ide");
         add(johnIdeButton);
+        
+        //test
     }
 }
