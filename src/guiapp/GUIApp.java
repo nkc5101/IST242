@@ -10,10 +10,6 @@ package guiapp;
  * @author nkc5101
  */
 public class GUIApp {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         MainFrame mFrame = new MainFrame();
        
