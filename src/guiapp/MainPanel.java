@@ -1,4 +1,4 @@
-package guiapp;
+package GUIApp;
 
 import javax.swing.JButton;
 import javax.swing.JPanel;
@@ -14,6 +14,7 @@ public class MainPanel extends JPanel {
         JButton johnIdeButton = new JButton("John Ide");
         add(johnIdeButton);
         
-        //test
+        JButton nateCoxButton - new JButton("Nate Cox");
+        add(nateCoxButton);
     }
 }
