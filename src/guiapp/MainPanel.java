@@ -1,4 +1,4 @@
-package GUIApp;
+package guiapp;
 
 import javax.swing.JButton;
 import javax.swing.JPanel;
