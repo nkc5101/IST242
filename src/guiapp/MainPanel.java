@@ -17,7 +17,7 @@ public class MainPanel extends JPanel {
         JButton nateCoxButton = new JButton("Nate Cox");
         add(nateCoxButton);
             
-       JButton weijunXuButton = new JButton("Weijun Xu");
+        JButton weijunXuButton = new JButton("Weijun Xu");
         add(weijunXuButton);
     }
 }
