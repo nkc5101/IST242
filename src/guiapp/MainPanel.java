@@ -2,7 +2,7 @@ package guiapp;
 
 import javax.swing.JButton;
 import javax.swing.JPanel;
-        
+
 public class MainPanel extends JPanel {
     MainPanel() {
         JButton blueButton = new JButton("Blue");
